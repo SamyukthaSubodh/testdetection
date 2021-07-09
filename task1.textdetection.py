@@ -1,3 +1,5 @@
+#text detection
+
 import cv2
 import pytesseract
 
